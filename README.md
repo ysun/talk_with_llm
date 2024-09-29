@@ -6,6 +6,8 @@
 - #>cd talk_with_llm/server
 - #>python -m venv .venv
 - #>source .venv/bin/activate
+- #>sudo apt install python-is-python3
+- #>pip3 install numpy torch rich funasr torchaudio transformers nltk ChatTTS
 - #>python server.py
 
 ##### Client
