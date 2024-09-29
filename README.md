@@ -12,6 +12,8 @@
 
 ##### Client
 - copy the client.py to target machine
+- #>sudo apt install portaudio19-dev
+- #>pip3 install sounddevice
 - python client.py --host <host_ip>
 
 #### Topology 
